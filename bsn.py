@@ -1,0 +1,2 @@
+import bsn
+bsn.ali()
